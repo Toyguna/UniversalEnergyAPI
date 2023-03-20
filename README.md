@@ -16,7 +16,7 @@ blocks, machines and chargable items. )
 
 
 ## Conventions
-The conventions are left for the users to
+The conventions are left for users to
 shape:
  - How much X unit of energy will the Y
 fuel generate with the Z method?
