@@ -5,7 +5,7 @@ Universal Energy API is an API for Fabric.
 The aim of the API is for users to easily
 create, work and interact with energy 
 units. Since different energy units can
-be created, energy units can be ported
+be created, energy units may be ported
 between Fabric and other Modloaders.
 
 The API also provides support for basic 
@@ -35,3 +35,5 @@ It should be noted that many methods and
 functions are present with the API to
 reduce time spent doing common things like
 unit conversion. 
+
+(WIP)
